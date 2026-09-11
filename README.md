@@ -2,34 +2,8 @@
 # 🛠️ Multi-Utility Toolkit
 
 <div align="center">
-  <div class="typing-container">
-    <span class="typing-text">6-in-1 Terminal Powerhouse | Built with Pure Python</span>
-  </div>
+  <img src="https://demolab.com." alt="Typing SVG" />
 </div>
-
-<style>
-  .typing-container {
-    display: inline-block;
-    font-family: 'Fira Code', monospace;
-    font-weight: 600;
-    font-size: 24px;
-    color: #39FF14;
-    border-right: 3px solid #39FF14;
-    white-space: nowrap;
-    overflow: hidden;
-    width: 0;
-    animation: typing 3.5s steps(40, end) infinite alternate;
-    margin: 20px 0;
-  }
-
-  @keyframes typing {
-    0% { width: 0; }
-    70% { width: 100%; }
-    100% { width: 100%; }
-  }
-</style>
-
-
 
 ---
 
@@ -170,3 +144,4 @@ Thank you for using the Multi-Utility Toolkit!
     display: none;
   }
 </style>
+
